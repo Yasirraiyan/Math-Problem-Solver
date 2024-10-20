@@ -6,3 +6,5 @@ choice = input("Enter your choice (1-4): ")
         
         # Calculate derivative
         derivative_f = sp.diff(f, x)
+        print("Derivative:", derivative_f)
+        
