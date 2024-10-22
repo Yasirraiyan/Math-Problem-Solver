@@ -85,3 +85,13 @@ calculation
 area = float(input("Enter the area of the circle to find its radius: "))
 radius_result = radius_from_area(area)
 print(f"The radius of the circle with area {area} is {radius_result}")
+
+
+# Take input from user
+num = float(input("Enter a number: "))
+
+# Calculate the square root
+sqrt_num = math.sqrt(num)
+
+# Print the result
+print(f"The square root of {num} is {sqrt_num}")
