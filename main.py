@@ -78,3 +78,10 @@ def main():
         print("Evaluated result at x =", value, "is:", evaluated_result)
     else:
         print("Invalid choice! Please choose a number between 1 and 4.")
+number =float(input("Enter a number to find cube root");
+cube_root_result=cube_root(number);
+print(" Cube root is{cube_root_result}")
+calculation
+area = float(input("Enter the area of the circle to find its radius: "))
+radius_result = radius_from_area(area)
+print(f"The radius of the circle with area {area} is {radius_result}")
